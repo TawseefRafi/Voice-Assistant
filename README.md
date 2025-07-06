@@ -1,1 +1,1 @@
-# Voice-Assistant
+This is a Python-based voice assistant capable of performing a wide range of tasks, from simple arithmetic to complex financial calculations, all controlled by voice commands. The assistant uses Google's Gemini Pro for natural language understanding to interpret commands and route them to the appropriate function.
